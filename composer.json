@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Product\\": "src/Product/",
+      "Visitor\\": "src/Visitor/"
+    }
+  }
+}
